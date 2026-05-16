@@ -1,4 +1,4 @@
-# PCMC Turf Booking Platform - MVP
+# PLAY SPOTS Booking Platform - MVP
 
 A hyperlocal platform for sports turf booking and player matching in PCMC (Pimpri-Chinchwad) area.
 
